@@ -1,0 +1,21 @@
+{
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": false,
+  "vimMode": false,
+  "livePreview": true,
+  "defaultViewMode": "source",
+  "propertiesInDocument": "source",
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "strictLineBreaks": true,
+  "showLineNumber": true,
+  "autoConvertHtml": true,
+  "promptDelete": false,
+  "newFileLocation": "current",
+  "newLinkFormat": "relative",
+  "attachmentFolderPath": "./"
+}
